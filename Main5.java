@@ -7,7 +7,7 @@ public class Main5 {
         for(int i: numbers){
             if(i % 2 != 0){
                 sumOdd += i;
-                count++;
+                //count++;
             }
 
         }
