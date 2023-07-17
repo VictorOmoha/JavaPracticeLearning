@@ -3,7 +3,7 @@ public class Main5 {
         int[] numbers = {4,7,12,5,8};
         int sumOdd = 0;
         int count = 0;
-
+   // for loop
         for(int i: numbers){
             if(i % 2 != 0){
                 sumOdd += i;
