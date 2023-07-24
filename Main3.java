@@ -3,7 +3,7 @@ public class Main3 {
         int[] numbers = {8, 10, 12, 7, 4};
         int sum = 0;
         
-        //for loop
+        //for  loop
         for (int i : numbers) {
 
                 sum += i;
